@@ -1,0 +1,33 @@
+9 colorscheme peaksea
+100
+101 call plug#begin()
+102 Plug 'maciakl/vim-neatstatus'
+103 Plug 'vim-scripts/peaksea'
+104 Plug 'stonefire-xyz/tabular'
+105 Plug 'SirVer/ultisnips'
+106 Plug 'stonefire-xyz/emmet-vim'
+107 Plug 'vim-scripts/peaksea'
+108 Plug 'michaeljsmith/vim-indent-object'
+109 Plug 'junegunn/vim-peekaboo'
+110 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+111 " Python
+112 Plug 'tmhedberg/SimpylFold', { 'for' :['python', 'vim-p
+lug'    ] }
+113 Plug 'Vimjas/vim-python-pep8-indent', { 'for' :['python
+', '    vim-plug'] }
+
+Plug 'maciakl/vim-neatstatus'
+Plug 'vim-scripts/peaksea'
+Plug 'stonefire-xyz/tabular'
+Plug 'SirVer/ultisnips'
+Plug 'stonefire-xyz/emmet-vim'
+Plug 'vim-scripts/peaksea'
+Plug 'michaeljsmith/vim-indent-object'
+Plug 'junegunn/vim-peekaboo'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'tmhedberg/SimpylFold', { 'for' :['python', 'vim-plug'
+    ] }
+Plug 'Vimjas/vim-python-pep8-indent', { 'for' :['python', '
+    vim-plug'] }
+
+[Process exited 0]
